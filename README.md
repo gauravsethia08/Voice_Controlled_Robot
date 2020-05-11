@@ -25,4 +25,4 @@ $ python3 rpi.py
 
 #### Co-Developers
 
-[Harish Kumar S Guragol](https://github.com/HarishGuragol) and [Gaurav Sethia](https://github.com/gauravsethia08)
+[Harish Kumar S Guragol](https://github.com/HarishGuragol) and [Swati Sandhya](https://github.com/swati2000)
